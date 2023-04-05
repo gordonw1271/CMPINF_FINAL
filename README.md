@@ -1,1 +1,3 @@
-# CMPINF_FINAL
+# BNS
+
+Gordon Wong, gyw3@pitt.edu
