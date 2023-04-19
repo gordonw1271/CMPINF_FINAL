@@ -6,7 +6,7 @@ Kenechi Ezekoye, koe2@pitt.edu
 
 ## Project Description
 
-We used data for Community center attendance(link:https://data.wprdc.org/dataset/daily-community-center-attendance/resource/b7cb30c8-b179-43ff-8655-f24880b0f578), air quality data (link:https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b), and obesity rates (link:<https://data.wprdc.org/dataset/allegheny-county-obesity-rates/resource/fce248f0-8697-4d2a-bbe0-2da826776bfa?view_id=623baf47-90d4-4745-b17f-6b1f14849d76>) to determine the best neighborhood in pittsburgh. Gordon dealt with air quality and Kenechi dealt with attendance and obesity.
+We used data for [Community center attendance](https://data.wprdc.org/dataset/daily-community-center-attendance/resource/b7cb30c8-b179-43ff-8655-f24880b0f578), [air quality](https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b) data, and [obesity rates](link:<https://data.wprdc.org/dataset/allegheny-county-obesity-rates/resource/fce248f0-8697-4d2a-bbe0-2da826776bfa?view_id=623baf47-90d4-4745-b17f-6b1f14849d76>) to determine the best neighborhood in pittsburgh. Gordon dealt with air quality and Kenechi dealt with attendance and obesity.
 
 We were canvas group 46
 
